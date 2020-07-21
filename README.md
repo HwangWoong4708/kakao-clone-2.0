@@ -1,3 +1,3 @@
-# kakao-clone-2.0
+# kakao-clone
 
-KaKao Clone Version 2.0
+html과 css를 이용한 카카오톡 클론 코딩
